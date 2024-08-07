@@ -1,22 +1,10 @@
 <p align="left">Hello World!!</p>
 
-###
-
-<div align="center">
-  <img height="200" src="./photo_2023-07-14_22-46-09.jpg"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/12183852234">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12183852234&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jicastilloh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&order=2&custom_title=Languages" height="200" alt="languages graph"  />

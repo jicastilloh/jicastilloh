@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="./photo_2023-07-14_22-46-09.jpg"  />
 </div>
 
 ###
